@@ -1,0 +1,13 @@
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background: black;
+    height: 50px;
+}
+
+.flex a {
+    color: yellow;
+    text-decoration: none;
+    font-size: 18px;
+}
